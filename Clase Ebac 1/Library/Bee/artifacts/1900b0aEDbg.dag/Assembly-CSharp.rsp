@@ -354,6 +354,8 @@
 "Assets/Scripts/Componente1.cs"
 "Assets/Scripts/Componente2.cs"
 "Assets/Scripts/Componente3.cs"
+"Assets/Scripts/CubeSpawner.cs"
+"Assets/Scripts/Cubodesdecero.cs"
 "Assets/Scripts/Hola_Mundo.cs"
 -langversion:9.0
 
